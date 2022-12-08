@@ -1,5 +1,6 @@
 {
 	"name": "open-url-in-browser",
+	"publisher": "michaelalandawson",
 	"displayName": "open-url-in-browser",
 	"description": "Opens the current file as a URL in the default browser.",
 	"version": "0.0.1",
