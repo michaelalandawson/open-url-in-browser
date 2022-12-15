@@ -1,9 +1,9 @@
 {
 	"name": "open-url-in-browser",
 	"publisher": "michaelalandawson",
-	"displayName": "open-url-in-browser",
+	"displayName": "Open URL in Browser",
 	"description": "Opens the current file as a URL in the default browser.",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/michaelalandawson/open-url-in-browser"
@@ -24,6 +24,15 @@
 				"title": "Open URL in Default Browser"
 			}
 		],
+		"menus": {
+			"editor/context": [
+				{
+					"when": "editorLangId == cfml || editorLangId == html",
+					"command": "open-url-in-browser.open",
+					"group": "navigation"
+				}
+			]
+		},
 		"configuration": {
 			"title": "Open URL in Default Browser",
 			"properties": {
