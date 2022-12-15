@@ -19,10 +19,6 @@ A workspace is required.
 
 None.
 
-## Release Notes
+## Change Log
 
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of open-url-in-browser
+[View the Change Log](https://github.com/michaelalandawson/open-url-in-browser/blob/main/CHANGELOG.md)
