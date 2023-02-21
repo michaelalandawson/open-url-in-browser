@@ -1,6 +1,10 @@
 # Change Log
 
-## 1.0.0: 2022-12-08
+## 1.1.1: 2023-02-21
+
+Add extension icon to package.json.
+
+## 1.1.0: 2022-12-08
 
 - Initial release
 

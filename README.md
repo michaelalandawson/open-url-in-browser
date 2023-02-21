@@ -21,4 +21,4 @@ None.
 
 ## Change Log
 
-[View the Change Log](https://github.com/michaelalandawson/open-url-in-browser/blob/main/CHANGELOG.md)
+[View the change log](CHANGELOG.md)
