@@ -3,7 +3,7 @@
 	"publisher": "michaelalandawson",
 	"displayName": "Open URL in Browser",
 	"description": "Opens the current file as a URL in the default browser.",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/michaelalandawson/open-url-in-browser"
